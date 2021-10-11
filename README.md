@@ -8,7 +8,7 @@ I have have contributed to the [openHAB](https://www.openhab.org/) and [xLights]
 
 ## Interests
 
-- Image processing, Data Structures, and Generic Algoithums
+- Image processing, Data Structures, and Generic Algorithms
 - Electronic Design
 - [3D Printing](https://www.thingiverse.com/scooter_seh/designs)
 - Home Automation
